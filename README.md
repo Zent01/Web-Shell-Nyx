@@ -14,17 +14,6 @@
 | 🖥️ **Cross-Platform** | Works identically on Linux, Windows, and macOS targets |
 | 🛡️ **Anti-Forensics** | No logs created by default, cache auto-expires |
 
-### Common Pentesting Use Cases
-
-- **Post-Exploitation Management** - Maintain access and control compromised systems
-- **File Exfiltration** - Download sensitive files through the built-in download manager
-- **Privilege Escalation** - Execute commands to identify and exploit privilege vectors
-- **Lateral Movement** - Use the terminal to pivot to other systems in the network
-- **Data Collection** - Search, filter, and extract system information efficiently
-- **Web Shell Replacement** - Superior alternative to basic `cmd.php` or `shell.php` scripts
-
----
-
 ## ✨ Key Features
 
 ### 💻 **Full Terminal Emulation**
