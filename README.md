@@ -2,7 +2,7 @@
 
 **Shell Nyx** is a sophisticated web-based shell interface built in PHP, designed for penetration testers and security researchers who need stealthy remote access to target environments. It combines a fully functional terminal emulator with an advanced file manager, providing comprehensive system control through a sleek, modern interface.
 
-### 🎯 Why Penetration Testers Choose Shell Nyx
+### 🎯 Why Shell Nyx ?
 
 | Feature | Benefit for Pentesters |
 |---------|----------------------|
